@@ -67,6 +67,7 @@ img {
 .navContainer > a {
     color: #ffffff;
     font-size: 14px;
+    font-weight: bold;
     padding: 10px 18px;
 }
 
@@ -494,6 +495,7 @@ p {
 .footerNavContainer > a {
     color: #ffffff;
     font-size: 14px;
+    font-weight: bold;
     padding: 10px 18px;
 }
 
